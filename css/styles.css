@@ -1,0 +1,86 @@
+body{
+  background-color: #0F0E0E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',cursive;
+}
+
+.profile{
+  width: 10%;
+  border-radius: 50%;
+  display: block;
+  margin: 30px auto 30px auto;
+}
+
+a{
+  font-family: 'Merriweather',cursive;
+  color: #406882;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+h2{
+  font-family: 'Moon Dance',cursive;
+  font-size: 2rem;
+  color: #6998AB;
+}
+
+h1{
+  font-family: 'The Nautigal',cursive;
+  font-size: 3rem;
+  color: #6998AB;
+}
+
+p{
+  color: #4C3F91;
+  word-spacing: 30px;
+  line-height: 2;
+}
+
+hr{
+  border-style: dotted #63B4B8;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto 50px auto;
+}
+
+.skill1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.my-skill{
+  width: 30%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+h3{
+  color: #406882;
+  word-spacing: 5px;
+  margin-top: 50px;
+}
+
+.my-hobbies{
+  width: 25%;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.link{
+  background-color: #334756;
+  margin: auto 300px auto 300px;
+}
+
+.copyright{
+  word-spacing: normal;
+  color: #6998AB;
+  padding: 10px 0;
+}
